@@ -23,6 +23,7 @@ section {
   background-image: url("./images/cat-1.jpg");
   background-position: center;
   background-size: cover;
+  /* border-radius: 100%; */
 }
 
 .image-4 {
@@ -56,22 +57,12 @@ section {
   width: 350px;
 }
 
-
 .image-7 img {
-    position:absolute;
-    top:0;
-    -webkit-animation-name: fade;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-duration: 4s;
-    animation-name: fade;
-    animation-iteration-count: infinite;
-    animation-duration: 4s;
-}
-
-@-webkit-keyframes fade {
-    0% {opacity: 0;}
-    50% {opacity: 1;}
-    100% {opacity: 0;}
+  position:absolute;
+  top:0;
+  animation-name: fade;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
 }
 
 @keyframes fade {
