@@ -12,15 +12,15 @@ document.addEventListener("DOMContentLoaded", () => {
   })
   
   
-  const div2 = document.querySelector(".image-7");
-  let div2Image = 1;
-  setInterval(() => {
-    if (div2Image === 1) {
-      div2Image = 2;
-    } else {
-      div2Image = 1;
-    }
+  // const div2 = document.querySelector(".image-7");
+  // let div2Image = 1;
+  // setInterval(() => {
+  //   if (div2Image === 1) {
+  //     div2Image = 2;
+  //   } else {
+  //     div2Image = 1;
+  //   }
   
-    div2.style.backgroundImage = `url("./images/cat-${div2Image}.jpg")`
-  }, 1500)
+  //   div2.style.backgroundImage = `url("./images/cat-${div2Image}.jpg")`
+  // }, 1500)
 });
