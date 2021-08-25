@@ -33,8 +33,16 @@ section {
   background-position: center;
   background-size: cover;
 }
-  
+
 .image-5 {
+  height: 200px;
+  width: 750px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+  
+.image-6 {
   height: 100px;
   width: 100px;
   background-color: pink;
