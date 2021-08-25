@@ -51,14 +51,9 @@ section {
 }
 
 .image-7 {
+  position: relative;
   height: 500px;
   width: 350px;
-  transition: background-image 1s ease-in-out;
-  background-image: url("./images/cat-1.jpg");
-  background-position: center;
-  background-size: cover;
-  /* transition-property: background-image; */
-  /* transition: background-image 2s linear; */
 }
 
 
@@ -67,10 +62,10 @@ section {
     top:0;
     -webkit-animation-name: fade;
     -webkit-animation-iteration-count: infinite;
-    -webkit-animation-duration: 6s;
+    -webkit-animation-duration: 4s;
     animation-name: fade;
     animation-iteration-count: infinite;
-    animation-duration: 6s;
+    animation-duration: 4s;
 }
 
 @-webkit-keyframes fade {
@@ -78,17 +73,14 @@ section {
     50% {opacity: 1;}
     100% {opacity: 0;}
 }
+
 @keyframes fade {
     0% {opacity: 0;}
     50% {opacity: 1;}
     100% {opacity: 0;}
 }
 
-.frame-1 {
-    background-color: lightblue;
-}
 .frame-2 {
-    -webkit-animation-delay: -4s;
-    background-color: yellow;
+    -webkit-animation-delay: -2s;
 }
 
