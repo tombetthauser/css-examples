@@ -1,6 +1,6 @@
 
 section {
-  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 .image-0 {
@@ -41,9 +41,11 @@ section {
   background-position: center;
   background-size: cover;
 }
-  
+
 .image-6 {
-  height: 100px;
-  width: 100px;
-  background-color: pink;
+  height: 500px;
+  width: 350px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
 }
