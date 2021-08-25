@@ -58,20 +58,20 @@ section {
 }
 
 .image-7 img {
-  position:absolute;
-  top:0;
+  position: absolute;
+  top: 0;
   animation-name: fade;
   animation-iteration-count: infinite;
   animation-duration: 4s;
 }
 
 @keyframes fade {
-    0% {opacity: 0;}
-    50% {opacity: 1;}
-    100% {opacity: 0;}
+  0% {opacity: 0;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
 }
 
 .frame-2 {
-    -webkit-animation-delay: -2s;
+  animation-delay: -2s;
 }
 
