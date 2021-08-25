@@ -49,3 +49,13 @@ section {
   background-position: center;
   background-size: cover;
 }
+
+.image-7 {
+  height: 500px;
+  width: 350px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
+  /* transition-property: background-image; */
+  transition: .5s;
+}
