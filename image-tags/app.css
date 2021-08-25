@@ -1,29 +1,37 @@
 
-.image-1 {
+section {
+  margin-top: 75px;
+}
+
+.image-0 {
   /* no style on this one! */
 }
 
 .image-1 {
-  height: 100px;
-  width: 100px;
+  width: 50%;
+  min-width: 350px;
 }
 
 .image-2 {
-  height: 100px;
-  width: 100px;
-  background-color: pink;
+  height: 250px;
+  width: 250px;
 }
 
 .image-3 {
-  height: 100px;
-  width: 100px;
-  background-color: pink;
+  height: 250px;
+  width: 250px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
 }
-  
+
 .image-4 {
-  height: 100px;
-  width: 100px;
-  background-color: pink;
+  display: block;
+  height: 250px;
+  width: 250px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
 }
   
 .image-5 {
