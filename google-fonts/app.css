@@ -1,3 +1,40 @@
+section {
+  width: 500px;
+  margin-bottom: 50px;
+}
+
 .title {
   font-family: 'Lobster Two', cursive;
+}
+
+.font-1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.font-1 {
+  font-family: 'Anton', sans-serif;
+}
+
+.font-1 {
+  font-family: 'Fredoka One', cursive;
+}
+
+.font-1 {
+  font-family: 'Homemade Apple', cursive;
+}
+
+.font-1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.font-1 {
+  font-family: 'Pacifico', cursive;
+}
+
+.font-1 {
+  font-family: 'Rampart One', cursive;
+}
+
+.font-1 {
+  font-family: 'VT323', monospace;
 }
