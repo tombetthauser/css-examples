@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const div1 = document.querySelector(".image-6");
+  const div1 = document.querySelector(".image-7");
   let div1Image = 1;
   
   div1.addEventListener("click", () => {

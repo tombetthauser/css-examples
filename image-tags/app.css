@@ -23,7 +23,24 @@ section {
   background-image: url("./images/cat-1.jpg");
   background-position: center;
   background-size: cover;
-  /* border-radius: 100%; */
+}
+
+.image-4 {
+  height: 250px;
+  width: 250px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+}
+
+.image-5 {
+  display: block;
+  height: 250px;
+  width: 250px;
+  background-image: url("./images/cat-1.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 .image-4 {
@@ -35,7 +52,7 @@ section {
   background-size: cover;
 }
 
-.image-5 {
+.image-6 {
   height: 200px;
   width: 750px;
   background-image: url("./images/cat-1.jpg");
@@ -43,21 +60,22 @@ section {
   background-size: cover;
 }
 
-.image-6 {
+.image-7 {
   height: 500px;
   width: 350px;
   background-image: url("./images/cat-1.jpg");
   background-position: center;
   background-size: cover;
+  cursor: pointer;
 }
 
-.image-7 {
+.image-8 {
   position: relative;
   height: 500px;
   width: 350px;
 }
 
-.image-7 img {
+.image-8 img {
   position: absolute;
   top: 0;
   animation-name: fade;
