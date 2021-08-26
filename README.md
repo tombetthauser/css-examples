@@ -1,0 +1,3 @@
+# CSS Examples for Fonts, Icons & Images
+
+The directories in this repo all contain stand-alone examples for using free Google Fonts, Google Icons and Font Awesome fonts. Additionally there is a directory with examples for using image tags vs divs for images in projects. These examples are meant to be copied and modified to save you time on your projects so you can focus on building functionality rather than styling. Enjoy!

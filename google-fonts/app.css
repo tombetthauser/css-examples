@@ -8,33 +8,41 @@ section {
 }
 
 .font-1 {
-  font-family: 'Amatic SC', cursive;
-}
-
-.font-1 {
-  font-family: 'Anton', sans-serif;
-}
-
-.font-1 {
-  font-family: 'Fredoka One', cursive;
-}
-
-.font-1 {
   font-family: 'Homemade Apple', cursive;
+  font-size: 15px;
 }
 
-.font-1 {
-  font-family: 'Indie Flower', cursive;
+.font-2 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 25px;
 }
 
-.font-1 {
-  font-family: 'Pacifico', cursive;
-}
-
-.font-1 {
+.font-3 {
   font-family: 'Rampart One', cursive;
+  font-size: 25px;
 }
 
-.font-1 {
+.font-4 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+}
+
+.font-5 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+}
+
+.font-6 {
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+
+.font-7 {
+  font-family: 'Anton', sans-serif;
+  font-size: 25px;
+}
+
+.font-8 {
   font-family: 'VT323', monospace;
+  font-size: 25px;
 }
