@@ -6,3 +6,8 @@ section {
   color: cornflowerblue;
   font-size: 50px;
 }
+
+.styled-icons span {
+  color: pink;
+  font-size: 50px;
+}

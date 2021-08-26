@@ -1,0 +1,13 @@
+section {
+  margin-bottom: 50px;
+}
+
+.styled-icons i {
+  color: cornflowerblue;
+  font-size: 50px;
+}
+
+.styled-icons span {
+  color: pink;
+  font-size: 50px;
+}
