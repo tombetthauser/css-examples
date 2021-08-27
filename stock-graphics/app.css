@@ -1,0 +1,43 @@
+img {
+  margin: 75px 0;
+}
+
+a {
+  display: block;
+}
+
+.graphic-1 {
+  width: 10%;
+  margin-right: 3%;
+}
+
+.graphic-2 {
+  width: 10%;
+  margin-right: 3%;
+}
+
+.graphic-3 {
+  width: 10%;
+  margin-right: 3%;
+}
+
+.graphic-4 {
+  display: block;
+  width: 20%;
+}
+
+.graphic-5 {
+  display: block;
+  width: 40%;
+}
+
+.graphic-6 {
+  display: block;
+  width: 80%;
+}
+
+.mixed-graphic {
+  width: 30%;
+  margin-right: 3%;
+  display: block;
+}
