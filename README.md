@@ -2,12 +2,12 @@
 
 The directories in this repo all contain stand-alone examples for using free Google Fonts, Google Icons and Font Awesome fonts. Additionally there is a directory with examples for using image tags vs divs for images in projects. These examples are meant to be copied and modified to save you time on your projects so you can focus on building functionality rather than styling. Enjoy!
 
-1. Clone the repo: 
+### 1. Clone the repo: 
 ```bash
   git clone https://github.com/tombetthauser/css-examples.git
 ```
 
-2. Open any of the index.html files:
+### 2. Open any of the index.html files:
 ```bash
   open image-tags/index.html
 ```
@@ -17,7 +17,11 @@ The directories in this repo all contain stand-alone examples for using free Goo
 ```bash
   open google-fonts/index.html
 ```
-etc...
+(there are more, these are just a few examples)
+
+### 3. Check out the code and see how its all working!
+
+***
 
 Here's a picture of a cat for no reason:
 <br /><br />
