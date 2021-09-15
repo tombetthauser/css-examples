@@ -23,6 +23,6 @@ The directories in this repo all contain stand-alone examples for using free Goo
 
 ***
 
-Here's a picture of a cat for no reason:
+Here's a picture of a cat for no reason from [unsplash](https://unsplash.com/):
 <br /><br />
 <img src="https://images.unsplash.com/photo-1519052537078-e6302a4968d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNhdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60" />
